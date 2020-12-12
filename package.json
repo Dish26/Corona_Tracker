@@ -1,5 +1,4 @@
-  
-  {
+{
   "name": "corona-tracker",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +15,7 @@
     "react-countup": "^4.3.3",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "homepage": "http://Dish26.github.io/{Corona_Tracker}"
+    "homepage": "https://Dish26.github.io/Corona_Tracker"
   },
   "scripts": {
     "start": "react-scripts start",
